@@ -1,14 +1,52 @@
+main {
+    max-width: 750px;
+    font-family: Helvetica;
+    font-size: smaller;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgba(30, 163, 216, 0.233);
+    padding: 1rem;
+    background-color: whitesmoke;
+    color: rgb(66, 71, 77);
+    text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
 nav {
-    background-color: steelblue;
+    background-color: rgb(66, 71, 77);
     padding: 10px;
 }
 
 nav a {
-    color: white;
+    color: whitesmoke;
     display: block;
     padding: 20px;
 }
 
 p {
-    padding: 10px;
+    padding: 0;
+}
+
+footer {
+    margin: 0;
+    border-top: 1px solid rgba(30, 163, 216, 0.233);
+    padding: 1px;
+    text-align: center;
+    background-color: rgb(66, 71, 77);
+    color: whitesmoke;
 }
