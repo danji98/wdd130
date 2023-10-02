@@ -73,7 +73,7 @@ a {
 }
 
 .hero article h2 {
-    color: whitesmoke;
+    display: none;
 }
 
 .hero article img {
