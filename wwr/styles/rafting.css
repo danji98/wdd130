@@ -72,6 +72,10 @@ a {
     color: whitesmoke;
 }
 
+.hero article h2 {
+    color: whitesmoke;
+}
+
 .hero article img {
     float: right;
     width: 150px;
